@@ -31,7 +31,7 @@ Cada tarea contiene la siguiente información:
 # Estructura del Proyecto
 
 ```
-api_tareas/
+administrar_tareas/
 │
 ├── app.py
 ├── tareas.db
